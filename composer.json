@@ -22,6 +22,7 @@
     }
   },
   "require": {
-    "drupal/core": "~10.0"
+    "drupal/core": "~10.0",
+    "drupal/webdev": "10.0.x-dev"
   }
 }
