@@ -1,0 +1,27 @@
+{
+  "name": "drupal/cucumber_default_content",
+  "description": "Provides default content for Cucumber site.",
+  "type": "drupal-module",
+  "license": "GPL-1.0-or-later",
+  "minimum-stability": "dev",
+  "authors": [
+    {
+      "name": "Webship",
+      "homepage": "http://webship.org",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://www.drupal.org/project/issues/cucumber_default_content",
+    "source": "http://cgit.drupalcode.org/cucumber_default_content"
+  },
+  "repositories": {
+    "drupal": {
+      "type": "composer",
+      "url": "https://packages.drupal.org/8"
+    }
+  },
+  "require": {
+    "drupal/core": "~10.0"
+  }
+}
