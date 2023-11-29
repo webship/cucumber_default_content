@@ -1,7 +1,7 @@
 name: Cucumber Default Content
 type: module
 description: Provides default content for Cucumber site.
-package: webship
+package: Webship
 core_version_requirement: ~10
 dependencies:
   - default_content:default_content
