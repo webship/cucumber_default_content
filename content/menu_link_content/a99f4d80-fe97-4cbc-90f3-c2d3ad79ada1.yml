@@ -1,0 +1,42 @@
+_meta:
+  version: '1.0'
+  entity_type: menu_link_content
+  uuid: a99f4d80-fe97-4cbc-90f3-c2d3ad79ada1
+  bundle: menu_link_content
+  default_langcode: en
+default:
+  enabled:
+    -
+      value: true
+  title:
+    -
+      value: 'All Feature'
+  menu_name:
+    -
+      value: admin
+  link:
+    -
+      uri: 'internal:/allfeatures'
+      title: ''
+      options:
+        attributes:
+          class:
+            - ''
+  external:
+    -
+      value: false
+  rediscover:
+    -
+      value: true
+  weight:
+    -
+      value: -91
+  expanded:
+    -
+      value: false
+  parent:
+    -
+      value: system.admin
+  revision_translation_affected:
+    -
+      value: true
