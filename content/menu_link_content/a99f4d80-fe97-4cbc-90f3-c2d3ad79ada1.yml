@@ -10,13 +10,13 @@ default:
       value: true
   title:
     -
-      value: 'All Feature'
+      value: 'Features'
   menu_name:
     -
       value: admin
   link:
     -
-      uri: 'internal:/allfeatures'
+      uri: 'internal:/features'
       title: ''
       options:
         attributes:
