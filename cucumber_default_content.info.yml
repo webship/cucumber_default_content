@@ -1,11 +1,7 @@
 name: Cucumber Default Content
+description: Provides default content for the Cucumber Automated Functional Acceptance Testing Management system.
 type: module
-description: Provides default content for Cucumber site.
-package: Webship
-core_version_requirement: ~10
+package: Cucumber
+core_version_requirement: ~10.2.0
 dependencies:
   - default_content:default_content
-
-default_content:
-menu_link_content:
-- d7023d50-d6d1-4e4e-96c9-06719a930e6d
